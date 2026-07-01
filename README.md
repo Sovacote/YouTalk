@@ -52,9 +52,6 @@ cd you-talk-blog
 you-talk-blog/
 ├── css/
 │   └── style.css          # Основные стили
-├── img/                   # Изображения
-│   ├── background/        # Фоновые изображения
-│   └── ...               # Остальные изображения
 ├── index.html            # Главная страница
 ├── article.html          # Страница статьи
 └── README.md            # Документация
